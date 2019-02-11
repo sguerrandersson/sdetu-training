@@ -10,7 +10,7 @@ public class FibonacciApp {
 		// fib (2) = fib(1) + fib(0) = 1 + 0 = 1
 		//System.out.println(fib(20));
 		System.out.println("Avvio calcolo fattoriale");
-		System.out.println(fact(6));
+		//System.out.println(fact(6));
 		
 		int[] numDays = {1, 2, 8, 5, 9, 7};
 		for (int x =0; x < 5; x++){
@@ -70,7 +70,8 @@ public class FibonacciApp {
 		}
 		return ( (n *  fact (n - 1 )));
 	*/
-	}
+}
+}
 
 /*
  Write 3 functions that take an array as a parameter 
@@ -79,9 +80,5 @@ Hint: this should be static functions with a return type
 of the same data type as the array declaration.
  * 
  * 
- */
-
-	
-	
  */
 
